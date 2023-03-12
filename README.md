@@ -6,7 +6,7 @@ Hi, my name is `Giuseppe` and I'm a `front-end and back-end developer` with a st
 
 Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con una forte inclinazione per il design. Attualmente sto lavorando per migliorare le mie competenze e diventare un `full stack web developer` nel prossimo futuro. Sono appassionato di tecnologia e amo creare soluzioni intuitive e funzionali per gli utenti.
 
-<div style='display: block; width: 100%; height: 1px; background-color: #666; margin: 5px 0;'></div>
+***
 
 ### :man_technologist: Tech Stack.
 
