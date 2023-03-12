@@ -12,4 +12,5 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 <div style='display: flex'>
     <img src="./assets/icons/software/vsc.svg" alt="Visual Studio Code" title="Visual Studio Code" style="width: 20px; height: 20px;">
     <img src="./assets/icons/software/prepros.svg" alt="Prepros" title="Prepros" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/software/illustrator.svg" alt="Illustrator" title="Illustrator" style="width: 20px; height: 20px;">
 </div>
