@@ -9,4 +9,4 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 ### Tech Stack
 
 #### Software I use
-![Visual Studio Code](https://github.com/NersOfficial/NersOfficial/blob/d99e36564c214aa79e4dfceacbb3dee48b530f95/assets/icons/software/vsc.svg){5x5}
+<img src="./assets/icons/software/vsc.svg" alt="Visual Studio Code" style="width: 5px; height: 5px;">
