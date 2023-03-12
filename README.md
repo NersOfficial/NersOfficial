@@ -27,6 +27,34 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 #### Technologies I use
 
 <div style='display: flex'>
-    <img src="./assets/icons/browser/chrome.svg" alt="Chrome" title="Chrome" style="width: 20px; height: 20px;">
-    <img src="./assets/icons/browser/fde.svg" alt="Firefox Developer Edition" title="Firefox Developer Edition" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/html.svg" alt="Html" title="Html" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/css.svg" alt="Css" title="Css" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/sass.svg" alt="Sass/Scss" title="Sass/Scss" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/js.svg" alt="Javascript" title="Javascript" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/jquery.svg" alt="jQuery" title="jQuery" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/php.svg" alt="Php" title="Php" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/sql.svg" alt="Sql" title="Sql" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/mysql.svg" alt="Mysql" title="Mysql" style="width: 20px; height: 20px;">
+</div>
+
+#### Technologies I am studying
+
+<div style='display: flex'>
+    <img src="./assets/icons/technologies/angular.svg" alt="Angular" title="Angular" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/react.svg" alt="React" title="React" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/git.svg" alt="Git" title="Git" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/laravel.svg" alt="Laravel" title="Laravel" style="width: 20px; height: 20px;">
+</div>
+
+#### Technologies I am interested in
+
+<div style='display: flex'>
+    <img src="./assets/icons/technologies/pyton.svg" alt="Pyton" title="Pyton" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/technologies/vue.svg" alt="Vue" title="Vue" style="width: 20px; height: 20px;">
+</div>
+
+#### The web hosting I use
+
+<div style='display: flex'>
+    <img src="./assets/icons/technologies/aruba.svg" alt="Aruba" title="Aruba" style="width: 20px; height: 20px;">
 </div>
