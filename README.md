@@ -24,4 +24,9 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
     <img src="./assets/icons/browser/fde.svg" alt="Firefox Developer Edition" title="Firefox Developer Edition" style="width: 20px; height: 20px;">
 </div>
 
-#### 
+#### Technologies I use
+
+<div style='display: flex'>
+    <img src="./assets/icons/browser/chrome.svg" alt="Chrome" title="Chrome" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/browser/fde.svg" alt="Firefox Developer Edition" title="Firefox Developer Edition" style="width: 20px; height: 20px;">
+</div>
