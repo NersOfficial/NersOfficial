@@ -63,12 +63,16 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 ### :trophy: Obiettivi per il 2023 / Goals for 2023.
 
+
+#### Eng:
 - Learning a front-end framework/library;
 - Learning a back-end framework;
 - Become a Full Stack Web Developer;
 - Publishing two projects;
 - Finding a job position in a software house.
 
+
+#### Ita:
 - Imparare un framework/libreria front-end;
 - Imparare un framework back-end;
 - Diventare Full Stack Web Developer;
@@ -80,5 +84,9 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 ### :handshake: Let's keep in touch.
 
 <div style='display: flex'>
-[Linkedin](https://www.linkedin.com/in/giuseppegligora/)
+    Linkedin: (https://www.linkedin.com/in/giuseppegligora/)
+    Facebook: https://www.facebook.com/giuseppe.gligora.ners/
+    Instagram: https://www.instagram.com/n.ers/
+    Twitter: https://twitter.com/nersofficial
+    Twitch: https://www.twitch.tv/nersofficial
 </div>
