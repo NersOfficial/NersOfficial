@@ -80,5 +80,5 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 ### :handshake: Let's keep in touch.
 
 <div style='display: flex'>
-    [Linkedin](https://www.linkedin.com/in/giuseppegligora/) - [Facebook](https://www.facebook.com/giuseppe.gligora.ners/) - [Instagram](https://www.instagram.com/n.ers/) - [Twitter](https://twitter.com/nersofficial) - [Twitch](https://www.twitch.tv/nersofficial)
+[Linkedin](https://www.linkedin.com/in/giuseppegligora/)
 </div>
