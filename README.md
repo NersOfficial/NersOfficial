@@ -56,5 +56,5 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 #### The web hosting I use
 
 <div style='display: flex'>
-    <img src="./assets/icons/technologies/aruba.svg" alt="Aruba" title="Aruba" style="width: 20px; height: 20px;">
+    <img src="./assets/icons/hosting/aruba.svg" alt="Aruba" title="Aruba" style="width: 20px; height: 20px;">
 </div>
