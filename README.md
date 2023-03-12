@@ -88,3 +88,5 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 - Instagram: https://www.instagram.com/n.ers/
 - Twitter: https://twitter.com/nersofficial
 - Twitch: https://www.twitch.tv/nersofficial
+
+[![](https://visitcount.itsvg.in/api?id=NersOfficial&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
