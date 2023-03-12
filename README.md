@@ -49,7 +49,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 #### :eyes: Technologies I am interested in.
 
 <div style='display: flex'>
-    <img src="./assets/icons/technologies/pyton.png" alt="Pyton" title="Pyton" style="height: 20px;">
+    <img src="./assets/icons/technologies/python.png" alt="Python" title="Python" style="height: 20px;">
     <img src="./assets/icons/technologies/vue.png" alt="Vue" title="Vue" style="height: 20px;">
 </div>
 
