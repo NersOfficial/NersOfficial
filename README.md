@@ -9,4 +9,4 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 ### Tech Stack
 
 #### Software I use
-<img src="./assets/icons/software/vsc.svg" alt="Visual Studio Code" style="width: 15px; height: 15px;">
+<img src="./assets/icons/software/vsc.svg" alt="Visual Studio Code" title="Visual Studio Code" style="width: 25px; height: 25px;">
