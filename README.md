@@ -11,10 +11,10 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 #### Software I use
 <table style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border-collapse: collapse;">
         <img src="./assets/icons/software/vsc.svg" alt="Visual Studio Code" title="Visual Studio Code" style="width: 20px; height: 20px;">
     </td>
-    <td>
+    <td style="border-collapse: collapse;">
         <img src="./assets/icons/software/prepros.svg" alt="Prepros" title="Prepros" style="width: 20px; height: 20px;">
     </td>
   </tr>
