@@ -1,4 +1,5 @@
-# Ciao a tutti / Hi there &#x1F44B
+# Ciao a tutti / Hi there 
+&#x1F44B
 
 ## About me / Chi sono
 ### Eng
