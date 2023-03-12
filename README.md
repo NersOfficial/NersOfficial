@@ -24,7 +24,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
     <img src="./assets/icons/browser/fde.svg" alt="Firefox Developer Edition" title="Firefox Developer Edition" style="width: 20px; height: 20px;">
 </div>
 
-#### Technologies I use
+#### :man_technologist: Technologies I use.
 
 <div style='display: flex'>
     <img src="./assets/icons/technologies/html.svg" alt="Html" title="Html" style="width: 20px; height: 20px;">
@@ -37,7 +37,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
     <img src="./assets/icons/technologies/mysql.svg" alt="Mysql" title="Mysql" style="width: 20px; height: 20px;">
 </div>
 
-#### Technologies I am studying
+#### :books: Technologies I am studying.
 
 <div style='display: flex'>
     <img src="./assets/icons/technologies/angular.svg" alt="Angular" title="Angular" style="width: 20px; height: 20px;">
@@ -46,14 +46,14 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
     <img src="./assets/icons/technologies/laravel.svg" alt="Laravel" title="Laravel" style="width: 20px; height: 20px;">
 </div>
 
-#### Technologies I am interested in
+#### :eyes: Technologies I am interested in.
 
 <div style='display: flex'>
     <img src="./assets/icons/technologies/pyton.svg" alt="Pyton" title="Pyton" style="width: 20px; height: 20px;">
     <img src="./assets/icons/technologies/vue.svg" alt="Vue" title="Vue" style="width: 20px; height: 20px;">
 </div>
 
-#### The web hosting I use
+#### :floppy_disk: The web hosting I use.
 
 <div style='display: flex'>
     <img src="./assets/icons/hosting/aruba.svg" alt="Aruba" title="Aruba" style="width: 20px; height: 20px;">
