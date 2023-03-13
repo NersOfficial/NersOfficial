@@ -81,6 +81,12 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 ***
 
+### :hammer_and_wrench: A cosa sto lavorando / What I'm working on.
+
+https://github.com/NersOfficial/NersOfficial/tree/main/works/works.md
+
+***
+
 ### :handshake: Let's keep in touch.
 
 - Linkedin: https://www.linkedin.com/in/giuseppegligora/
