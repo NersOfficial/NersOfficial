@@ -95,6 +95,4 @@ https://github.com/NersOfficial/NersOfficial/tree/main/works/works.md
 - Twitter: https://twitter.com/nersofficial
 - Twitch: https://www.twitch.tv/nersofficial
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=NersOfficial&label=Profile%20Views&color=12&icon=1&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=NersOfficial&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
