@@ -4,12 +4,15 @@
 - Website: https://www.giobox.it
 - - Ruolo/Role: Front-end/Back-end Developer;
 - - Anno/Year: 2022;
+- - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
 - Website: https://www.sunsetcefalu.com
 - - Ruolo/Role: Front-end/Back-end Developer, Web Designer and Web consultant (Cosulente web);
 - - Anno/Year: 2021;
+- - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
 - Website (Primo sito web sviluppato / First website developed): http://www.giocalabria.com
 - - Ruolo/Role: Web Designer;
 - - Anno/Year: 2018;
+- - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery.
 
 ### :globe_with_meridians: Widget twitch;
 - Widget: Sub counter (Counter Abbonati)
