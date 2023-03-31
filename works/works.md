@@ -32,3 +32,13 @@
 - Private Project: Custom PHP framework
 - - Stato/State: In sviluppo e in test / In development and in testing;
 - Altri quattro progetti privati / Four other private projects.
+
+### :globe_with_meridians: More;
+- Head of community moderation :
+- - Channel: https://www.twitch.tv/mox600
+- - From: 01/2020;
+- - To: Today;
+- Community moderator:
+- - Channel: https://www.twitch.tv/mox600
+- - From: 09/10/2019;
+- - To: 01/2020;
