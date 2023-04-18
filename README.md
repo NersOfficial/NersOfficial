@@ -41,13 +41,13 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 <div style='display: flex'>
     <img src="./assets/icons/technologies/git.png" alt="Git" title="Git" style="height: 20px;">
+    <img src="./assets/icons/technologies/react.png" alt="React" title="React" style="height: 20px;">
 </div>
 
 #### :books: Technologies I am studying.
 
 <div style='display: flex'>
     <img src="./assets/icons/technologies/angular.png" alt="Angular" title="Angular" style="height: 20px;">
-    <img src="./assets/icons/technologies/react.png" alt="React" title="React" style="height: 20px;">
     <img src="./assets/icons/technologies/laravel.png" alt="Laravel" title="Laravel" style="height: 20px;">
 </div>
 
