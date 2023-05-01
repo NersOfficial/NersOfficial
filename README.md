@@ -70,7 +70,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 
 #### Eng:
-- Learning a front-end framework/library;
+- [x] Learning a front-end framework/library;
 - Learning a back-end framework;
 - Become a Full Stack Web Developer;
 - Publishing two projects;
@@ -78,7 +78,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 
 #### Ita:
-- Imparare un framework/libreria front-end;
+- [x] Imparare un framework/libreria front-end;
 - Imparare un framework back-end;
 - Diventare Full Stack Web Developer;
 - Pubblicare due progetti;
