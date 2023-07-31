@@ -9,7 +9,7 @@
 - - Ruolo/Role: Front-end/Back-end Developer, Web Designer and Web consultant (Cosulente web);
 - - Anno/Year: 2021;
 - - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
-- Website (Primo sito web sviluppato / First website developed): http://www.giocalabria.it
+- Website (Primo sito web sviluppato / First website developed): http://www.girocalabria.it
 - - Ruolo/Role: Web Designer;
 - - Anno/Year: 2018;
 - - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery.
