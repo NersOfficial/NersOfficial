@@ -79,16 +79,12 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 - [x] Learning a front-end framework/library (React);
 - Learning a back-end framework;
 - [x] Become a Full Stack Web Developer;
-- Publishing two projects;
-- Finding a job position in a software house.
 
 
 #### Ita:
 - [x] Imparare un framework/libreria front-end (React);
 - Imparare un framework back-end;
 - [x] Diventare Full Stack Web Developer;
-- Pubblicare due progetti;
-- Trovare una posizione lavorativa in una software house.
 
 
 ***
