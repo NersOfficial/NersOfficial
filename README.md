@@ -64,6 +64,12 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
     <img src="./assets/icons/hosting/aruba.png" alt="Aruba" title="Aruba" style="height: 20px;">
 </div>
 
+#### :books: The main training sites I use.
+<div style='display: flex'>
+    <img src="./assets/icons/website/learnn.png" alt="Learnn" title="Learnn" style="height: 20px;">
+    <img src="./assets/icons/website/udemy.png" alt="udemy" title="udemy" style="height: 20px;">
+</div>
+
 ***
 
 ### :trophy: Obiettivi per il 2023 / Goals for 2023.
@@ -83,6 +89,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 - [x] Diventare Full Stack Web Developer;
 - Pubblicare due progetti;
 - Trovare una posizione lavorativa in una software house.
+
 
 ***
 
