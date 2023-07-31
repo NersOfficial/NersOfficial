@@ -66,7 +66,7 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 #### :books: The main training sites I use.
 <div style='display: flex'>
-    <a href="https://learnn.com/invito/?via=attnnzps" target="_blank"><img src="./assets/icons/website/learnn.png" alt="Learnn" title="Learnn" style="height: 20px;"></a>
+    <a href="https://learnn.com/invito/?via=attnnzps" target="_blank" rel="noreferrer noopener"><img src="./assets/icons/website/learnn.png" alt="Learnn" title="Learnn" style="height: 20px;"></a>
     <img src="./assets/icons/website/udemy.png" alt="udemy" title="udemy" style="height: 20px;">
 </div>
 
