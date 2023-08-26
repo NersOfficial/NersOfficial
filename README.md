@@ -104,3 +104,8 @@ https://github.com/NersOfficial/NersOfficial/tree/main/works/works.md
 - Twitch: https://www.twitch.tv/nersofficial
 
 [![](https://visitcount.itsvg.in/api?id=NersOfficial&label=Profile%20Views&color=12&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+*** 
+### :exclamation: Note;
+- (ITA) La mia formazione e i miei progetti sono sempre in continua evoluzione e aggiornamento, se sei interessato a come mi sto muovendo basta che segui questo progetto. Ogni volta che pubblicherò un aggiornamento, Github ti invierà una notifica.
+- (ENG) My training and projects are always changing and updating, if you are interested in how I am doing just follow this project. Whenever I post an update, Github will send you a notification.
