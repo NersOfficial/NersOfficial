@@ -89,9 +89,15 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 ***
 
+### Cosa e come sto studiando / What and how I am studying.
+
+[Formazione / Education](https://github.com/NersOfficial/NersOfficial/tree/main/education/education.md)
+
+***
+
 ### :hammer_and_wrench: A cosa sto lavorando / What I'm working on.
 
-https://github.com/NersOfficial/NersOfficial/tree/main/works/works.md
+[Lavori / Works](https://github.com/NersOfficial/NersOfficial/tree/main/works/works.md)
 
 ***
 
