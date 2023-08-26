@@ -14,37 +14,41 @@ Di seguito troveri i libri e corsi che ho letto/completato. Questi li rileggo/co
 
 - - [Cyber security per applicazioni web / Cyber security for web applications](https://www.amazon.it/gp/product/8893851679)
 - - - Di/By: Roberto Abbate;
-- - - - Stato/Status: Lo sto leggendo / I'm reading it;
+- - - - Stato/Status: :hourglass: Lo sto leggendo / I'm reading it;
+
+- - [Git per Principianti / Git for Beginners](https://www.amazon.it/gp/product/1521306877)
+- - - Di/By: Luca Pulina;
+- - - - Stato/Status: :heavy_check_mark: Letto / Read;
 
 - - [Sicurezza delle informazioni - Edizione 2022 / Information Security - 2022 Edition](https://www.amazon.it/gp/product/B09SL5GNZM/)
 - - - Di/By: Cesare Gallotti;
-- - - - Stato/Status: Lo sto leggendo / I'm reading it;
+- - - - Stato/Status: :hourglass: Lo sto leggendo / I'm reading it;
 
 - 2022
 
 - - [PHP & MySQL](https://www.amazon.it/PHP-MYSQL-Sviluppare-applicazioni-dinamiche/dp/8850334494/)
 - - - Di/By: Jon Ducket;
-- - - - Stato/Status: Letto / Read;
+- - - - Stato/Status: :heavy_check_mark: Letto / Read;
 
 - 2019
 
 - - Coaching in azienda;
 - - - Di/By: Max Landsberg;
-- - - - Stato/Status: Da leggere / To read;
+- - - - Stato/Status: :exclamation: Da leggere / To read;
 
 - - [Happy worker](https://www.amazon.it/worker-vivere-lavoro-autonomo-stress/dp/8809810198/)
 - - - Di/By: Matteo Marini;
-- - - - Stato/Status: Da leggere / To read;
+- - - - Stato/Status: :exclamation: Da leggere / To read;
 
 
 - 2018
 - - [HTML e CSS](https://www.amazon.it/gp/product/8850334044);
 - - - Di/By: Jon Ducket;
-- - - - Stato/Status: Letto / Read;
+- - - - Stato/Status: :heavy_check_mark: Letto / Read;
 
 - - [Javascript & jQuery](https://www.amazon.it/gp/product/8850334052);
 - - - Di/By: Jon Ducket;
-- - - - Stato/Status: Letto / Read;
+- - - - Stato/Status: :heavy_check_mark: Letto / Read;
 
 ***
 
