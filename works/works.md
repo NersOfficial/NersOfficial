@@ -4,15 +4,18 @@
 - Website: https://www.giobox.it
 - - Ruolo/Role: Front-end/Back-end Developer;
 - - Anno/Year: 2022;
-- - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
+- - Tecnologie usate/Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
+- - Stato Supporto/Support Status: Attivo / Active;
 - Website: https://www.sunsetcefalu.com
 - - Ruolo/Role: Front-end/Back-end Developer, Web Designer and Web consultant (Cosulente web);
 - - Anno/Year: 2021;
-- - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
-- Website (Primo sito web sviluppato / First website developed): http://www.girocalabria.it
+- - Tecnologie usate/Technologies used: Html, Css, Js, jQuery, Scss, Php 8.x + , Sql & MySql;
+- - Stato Supporto/Support Status: Attivo / Active;
+- Website (Primo sito web sviluppato/First website developed): http://www.girocalabria.it
 - - Ruolo/Role: Web Designer;
 - - Anno/Year: 2018;
-- - Tecnologie usate/ Technologies used: Html, Css, Js, jQuery.
+- - Tecnologie usate/Technologies used: Html, Css, Js, jQuery.
+- - Stato Supporto/Support Status: Finito / Finished;
 
 ### :globe_with_meridians: Widget twitch;
 - Widget: Sub counter (Counter Abbonati)
