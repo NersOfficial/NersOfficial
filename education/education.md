@@ -8,6 +8,10 @@ Di seguito troveri i libri e corsi che ho letto/completato. Questi li rileggo/co
 
 ### :book: Libri / Book;
 
+- ##### :hourglass: Lo sto leggendo / I'm reading it: 6;
+- ##### :heavy_check_mark: Letto / Read: 6;
+- ##### :exclamation: Da leggere / To read: 8;
+
 #### Linguaggi di programmazione, markup, ecc...  / Programming languages, markup, etc...
 
 - ##### 2023;
