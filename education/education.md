@@ -10,7 +10,7 @@ Di seguito troveri i libri e corsi che ho letto/completato. Questi li rileggo/co
 
 #### Linguaggi di programmazione, markup, ecc...  / Programming languages, markup, etc...
 
-- 2023;
+- ##### 2023;
 
 - - [Cyber security per applicazioni web / Cyber security for web applications](https://www.amazon.it/gp/product/8893851679)
 - - - Di/By: Roberto Abbate;
@@ -27,14 +27,14 @@ Di seguito troveri i libri e corsi che ho letto/completato. Questi li rileggo/co
 - - - - Stato/Status: :hourglass: Lo sto leggendo / I'm reading it;
 <br/>
 
-- 2022
+- ##### 2022
 
 - - [PHP & MySQL](https://www.amazon.it/PHP-MYSQL-Sviluppare-applicazioni-dinamiche/dp/8850334494/)
 - - - Di/By: Jon Ducket;
 - - - - Stato/Status: :heavy_check_mark: Letto / Read;
 <br/>
 
-- 2019
+- ##### 2019
 
 - - Coaching in azienda;
 - - - Di/By: Max Landsberg;
@@ -44,9 +44,9 @@ Di seguito troveri i libri e corsi che ho letto/completato. Questi li rileggo/co
 - - [Happy worker](https://www.amazon.it/worker-vivere-lavoro-autonomo-stress/dp/8809810198/)
 - - - Di/By: Matteo Marini;
 - - - - Stato/Status: :exclamation: Da leggere / To read;
+<br/>
 
-
-- 2018
+- ##### 2018
 - - [HTML e CSS](https://www.amazon.it/gp/product/8850334044);
 - - - Di/By: Jon Ducket;
 - - - - Stato/Status: :heavy_check_mark: Letto / Read;
