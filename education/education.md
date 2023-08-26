@@ -1,5 +1,9 @@
 # :books: Traccia la mia formazione / Trace my education;
 
+Below you will find the books and courses I have read/completed. These I reread/complete with different time cadence to improve my basics.
+
+Di seguito troveri i libri e corsi che ho letto/completato. Questi li rileggo/completto con diversa cadenza temporale per migliorare migliorare le mie basi.
+
 ***
 
 ### :book: Libri / Book;
