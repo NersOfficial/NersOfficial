@@ -77,13 +77,13 @@ Ciao, mi chiamo `Giuseppe` e sono uno `sviluppatore front-end e back-end` con un
 
 #### Eng:
 - [x] Learning a front-end framework/library (React);
-- Learning a back-end framework;
+- [x] Learning a back-end framework (Laravel);
 - [x] Become a Full Stack Web Developer;
 
 
 #### Ita:
 - [x] Imparare un framework/libreria front-end (React);
-- Imparare un framework back-end;
+- [x] Imparare un framework back-end (Laravel);
 - [x] Diventare Full Stack Web Developer;
 
 
